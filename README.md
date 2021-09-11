@@ -1,6 +1,10 @@
 
 <div align="center">
  
+ [![CodeQL](https://github.com/Rishabh053/Jarvis/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/Rishabh053/Jarvis/actions/workflows/codeql-analysis.yml)
+ [![Docker](https://github.com/Rishabh053/Jarvis/actions/workflows/docker-image.yml/badge.svg)](https://github.com/Rishabh053/Jarvis/actions/workflows/docker-image.yml)
+ [![Node.js CI](https://github.com/Rishabh053/Jarvis/actions/workflows/node.js.yml/badge.svg)](https://github.com/Rishabh053/Jarvis/actions/workflows/node.js.yml)
+ 
 # Jarvis - Whatsapp Bot
 
 
