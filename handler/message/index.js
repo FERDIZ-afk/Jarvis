@@ -93,7 +93,7 @@ module.exports = msgHandler = async (client, message) => {
             case 'temp':
                 try {
                     client.reply(from, `Okay! let me get my thermometer..`, id)
-                    let wapiKey = 'be0641c0a1ca915f2adb1fbeccd850fb';
+                    let wapiKey = '##';
                     let city = arg;
                     let wurl = `http://api.openweathermap.org/data/2.5/weather?q=${city}&units=metric&appid=${wapiKey}`
 
