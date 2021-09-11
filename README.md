@@ -1,6 +1,8 @@
 
 <div align="center">
  
+ # Jarvis - A Automated Whatsapp Bot
+ 
  
  [![Build](https://github.com/ehmicky/preferred-node-version/workflows/Build/badge.svg)](https://github.com/Rishabh053/Jarvis/actions)
  [![Node](https://img.shields.io/node/v/preferred-node-version.svg?logo=node.js)](https://www.npmjs.com/package/preferred-node-version)
@@ -11,12 +13,10 @@
  [![Node.js CI](https://github.com/Rishabh053/Jarvis/actions/workflows/node.js.yml/badge.svg)](https://github.com/Rishabh053/Jarvis/actions/workflows/node.js.yml)
  
  
-# Jarvis - Whatsapp Bot
-
 
 ## Getting Started
 
-This project require NodeJS v12.
+This project require NodeJS v12 or above
 
 ### Install
 Clone this project
