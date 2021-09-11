@@ -3,25 +3,24 @@ node_modules
 .node-persist
 .idea
 .vs
+.github
 db
-
 # Dot files
 .idea
 .node-persist
-
 # Log files
 *.log
-
 # Session files
 *.data.json
-
 # Workspace files
 *.code-workspace
-
 # Lock files
 package-lock.json
 *.lock
-
 # Other files
 lib/*.json
 
+# managed
+**.data.json
+**.node-persist**
+# end managed

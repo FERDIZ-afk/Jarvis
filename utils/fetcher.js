@@ -1,4 +1,4 @@
-const fetch = require('node-fetch')
+const fetch = import('node-fetch')
 const FormData = require('form-data')
 const fs = require('fs')
 const { fromBuffer } = require('file-type')
