@@ -44,6 +44,7 @@ const options = {
     sessionId: 'Imperial',
     headless: true,
     qrTimeout: 0,
+    multiDevice: true, //required to enable multiDevice support
     authTimeout: 0,
     restartOnCrash: start,
     cacheEnabled: false,
